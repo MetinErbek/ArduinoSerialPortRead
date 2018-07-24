@@ -1,0 +1,15 @@
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\ArduinoSerialPort.exe.config
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\ArduinoSerialPort.exe
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\ArduinoSerialPort.pdb
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.Properties.Resources.resources
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.csproj.GenerateResource.cache
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.exe
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.pdb
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.SerialPortRead.resources
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\EntityFramework.dll
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\EntityFramework.xml
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.csproj.CopyComplete
+C:\Users\Medicawell-3\Desktop\ArduinoSerialPort\ArduinoSerialPort\obj\Debug\ArduinoSerialPort.csprojAssemblyReference.cache
